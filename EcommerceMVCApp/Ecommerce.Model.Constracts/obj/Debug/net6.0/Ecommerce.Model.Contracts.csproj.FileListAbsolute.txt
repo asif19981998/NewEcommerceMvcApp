@@ -1,0 +1,12 @@
+E:\New Work Folder 28_03_2023\MVC Project\ECommerceApp\EcommerceMVCApp\Ecommerce.Model.Constracts\bin\Debug\net6.0\Ecommerce.Model.Contracts.deps.json
+E:\New Work Folder 28_03_2023\MVC Project\ECommerceApp\EcommerceMVCApp\Ecommerce.Model.Constracts\bin\Debug\net6.0\Ecommerce.Model.Contracts.dll
+E:\New Work Folder 28_03_2023\MVC Project\ECommerceApp\EcommerceMVCApp\Ecommerce.Model.Constracts\bin\Debug\net6.0\Ecommerce.Model.Contracts.pdb
+E:\New Work Folder 28_03_2023\MVC Project\ECommerceApp\EcommerceMVCApp\Ecommerce.Model.Constracts\obj\Debug\net6.0\Ecommerce.Model.Contracts.csproj.AssemblyReference.cache
+E:\New Work Folder 28_03_2023\MVC Project\ECommerceApp\EcommerceMVCApp\Ecommerce.Model.Constracts\obj\Debug\net6.0\Ecommerce.Model.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+E:\New Work Folder 28_03_2023\MVC Project\ECommerceApp\EcommerceMVCApp\Ecommerce.Model.Constracts\obj\Debug\net6.0\Ecommerce.Model.Contracts.AssemblyInfoInputs.cache
+E:\New Work Folder 28_03_2023\MVC Project\ECommerceApp\EcommerceMVCApp\Ecommerce.Model.Constracts\obj\Debug\net6.0\Ecommerce.Model.Contracts.AssemblyInfo.cs
+E:\New Work Folder 28_03_2023\MVC Project\ECommerceApp\EcommerceMVCApp\Ecommerce.Model.Constracts\obj\Debug\net6.0\Ecommerce.Model.Contracts.csproj.CoreCompileInputs.cache
+E:\New Work Folder 28_03_2023\MVC Project\ECommerceApp\EcommerceMVCApp\Ecommerce.Model.Constracts\obj\Debug\net6.0\Ecommerce.Model.Contracts.dll
+E:\New Work Folder 28_03_2023\MVC Project\ECommerceApp\EcommerceMVCApp\Ecommerce.Model.Constracts\obj\Debug\net6.0\refint\Ecommerce.Model.Contracts.dll
+E:\New Work Folder 28_03_2023\MVC Project\ECommerceApp\EcommerceMVCApp\Ecommerce.Model.Constracts\obj\Debug\net6.0\Ecommerce.Model.Contracts.pdb
+E:\New Work Folder 28_03_2023\MVC Project\ECommerceApp\EcommerceMVCApp\Ecommerce.Model.Constracts\obj\Debug\net6.0\ref\Ecommerce.Model.Contracts.dll

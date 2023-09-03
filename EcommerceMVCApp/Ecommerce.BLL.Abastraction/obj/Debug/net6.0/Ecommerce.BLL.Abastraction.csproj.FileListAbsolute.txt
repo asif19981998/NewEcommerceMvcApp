@@ -1,0 +1,12 @@
+E:\New Work Folder 28_03_2023\MVC Project\ECommerceApp\EcommerceMVCApp\Ecommerce.BLL.Abastraction\bin\Debug\net6.0\Ecommerce.BLL.Abastraction.deps.json
+E:\New Work Folder 28_03_2023\MVC Project\ECommerceApp\EcommerceMVCApp\Ecommerce.BLL.Abastraction\bin\Debug\net6.0\Ecommerce.BLL.Abastraction.dll
+E:\New Work Folder 28_03_2023\MVC Project\ECommerceApp\EcommerceMVCApp\Ecommerce.BLL.Abastraction\bin\Debug\net6.0\Ecommerce.BLL.Abastraction.pdb
+E:\New Work Folder 28_03_2023\MVC Project\ECommerceApp\EcommerceMVCApp\Ecommerce.BLL.Abastraction\obj\Debug\net6.0\Ecommerce.BLL.Abastraction.csproj.AssemblyReference.cache
+E:\New Work Folder 28_03_2023\MVC Project\ECommerceApp\EcommerceMVCApp\Ecommerce.BLL.Abastraction\obj\Debug\net6.0\Ecommerce.BLL.Abastraction.GeneratedMSBuildEditorConfig.editorconfig
+E:\New Work Folder 28_03_2023\MVC Project\ECommerceApp\EcommerceMVCApp\Ecommerce.BLL.Abastraction\obj\Debug\net6.0\Ecommerce.BLL.Abastraction.AssemblyInfoInputs.cache
+E:\New Work Folder 28_03_2023\MVC Project\ECommerceApp\EcommerceMVCApp\Ecommerce.BLL.Abastraction\obj\Debug\net6.0\Ecommerce.BLL.Abastraction.AssemblyInfo.cs
+E:\New Work Folder 28_03_2023\MVC Project\ECommerceApp\EcommerceMVCApp\Ecommerce.BLL.Abastraction\obj\Debug\net6.0\Ecommerce.BLL.Abastraction.csproj.CoreCompileInputs.cache
+E:\New Work Folder 28_03_2023\MVC Project\ECommerceApp\EcommerceMVCApp\Ecommerce.BLL.Abastraction\obj\Debug\net6.0\Ecommerce.BLL.Abastraction.dll
+E:\New Work Folder 28_03_2023\MVC Project\ECommerceApp\EcommerceMVCApp\Ecommerce.BLL.Abastraction\obj\Debug\net6.0\refint\Ecommerce.BLL.Abastraction.dll
+E:\New Work Folder 28_03_2023\MVC Project\ECommerceApp\EcommerceMVCApp\Ecommerce.BLL.Abastraction\obj\Debug\net6.0\Ecommerce.BLL.Abastraction.pdb
+E:\New Work Folder 28_03_2023\MVC Project\ECommerceApp\EcommerceMVCApp\Ecommerce.BLL.Abastraction\obj\Debug\net6.0\ref\Ecommerce.BLL.Abastraction.dll

@@ -1,0 +1,12 @@
+E:\New Work Folder 28_03_2023\MVC Project\ECommerceApp\EcommerceMVCApp\Ecommerce.IOCContainer\bin\Debug\net6.0\Ecommerce.IOCContainer.deps.json
+E:\New Work Folder 28_03_2023\MVC Project\ECommerceApp\EcommerceMVCApp\Ecommerce.IOCContainer\bin\Debug\net6.0\Ecommerce.IOCContainer.dll
+E:\New Work Folder 28_03_2023\MVC Project\ECommerceApp\EcommerceMVCApp\Ecommerce.IOCContainer\bin\Debug\net6.0\Ecommerce.IOCContainer.pdb
+E:\New Work Folder 28_03_2023\MVC Project\ECommerceApp\EcommerceMVCApp\Ecommerce.IOCContainer\obj\Debug\net6.0\Ecommerce.IOCContainer.csproj.AssemblyReference.cache
+E:\New Work Folder 28_03_2023\MVC Project\ECommerceApp\EcommerceMVCApp\Ecommerce.IOCContainer\obj\Debug\net6.0\Ecommerce.IOCContainer.GeneratedMSBuildEditorConfig.editorconfig
+E:\New Work Folder 28_03_2023\MVC Project\ECommerceApp\EcommerceMVCApp\Ecommerce.IOCContainer\obj\Debug\net6.0\Ecommerce.IOCContainer.AssemblyInfoInputs.cache
+E:\New Work Folder 28_03_2023\MVC Project\ECommerceApp\EcommerceMVCApp\Ecommerce.IOCContainer\obj\Debug\net6.0\Ecommerce.IOCContainer.AssemblyInfo.cs
+E:\New Work Folder 28_03_2023\MVC Project\ECommerceApp\EcommerceMVCApp\Ecommerce.IOCContainer\obj\Debug\net6.0\Ecommerce.IOCContainer.csproj.CoreCompileInputs.cache
+E:\New Work Folder 28_03_2023\MVC Project\ECommerceApp\EcommerceMVCApp\Ecommerce.IOCContainer\obj\Debug\net6.0\Ecommerce.IOCContainer.dll
+E:\New Work Folder 28_03_2023\MVC Project\ECommerceApp\EcommerceMVCApp\Ecommerce.IOCContainer\obj\Debug\net6.0\refint\Ecommerce.IOCContainer.dll
+E:\New Work Folder 28_03_2023\MVC Project\ECommerceApp\EcommerceMVCApp\Ecommerce.IOCContainer\obj\Debug\net6.0\Ecommerce.IOCContainer.pdb
+E:\New Work Folder 28_03_2023\MVC Project\ECommerceApp\EcommerceMVCApp\Ecommerce.IOCContainer\obj\Debug\net6.0\ref\Ecommerce.IOCContainer.dll

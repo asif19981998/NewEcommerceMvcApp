@@ -1,0 +1,17 @@
+E:\New Work Folder 28_03_2023\MVC Project\ECommerceApp\EcommerceMVCApp\Ecommerce.DatabaseContext\bin\Debug\net6.0\Ecommerce.DatabaseContext.deps.json
+E:\New Work Folder 28_03_2023\MVC Project\ECommerceApp\EcommerceMVCApp\Ecommerce.DatabaseContext\bin\Debug\net6.0\Ecommerce.DatabaseContext.dll
+E:\New Work Folder 28_03_2023\MVC Project\ECommerceApp\EcommerceMVCApp\Ecommerce.DatabaseContext\bin\Debug\net6.0\Ecommerce.DatabaseContext.pdb
+E:\New Work Folder 28_03_2023\MVC Project\ECommerceApp\EcommerceMVCApp\Ecommerce.DatabaseContext\obj\Debug\net6.0\Ecommerce.DatabaseContext.csproj.AssemblyReference.cache
+E:\New Work Folder 28_03_2023\MVC Project\ECommerceApp\EcommerceMVCApp\Ecommerce.DatabaseContext\obj\Debug\net6.0\Ecommerce.DatabaseContext.GeneratedMSBuildEditorConfig.editorconfig
+E:\New Work Folder 28_03_2023\MVC Project\ECommerceApp\EcommerceMVCApp\Ecommerce.DatabaseContext\obj\Debug\net6.0\Ecommerce.DatabaseContext.AssemblyInfoInputs.cache
+E:\New Work Folder 28_03_2023\MVC Project\ECommerceApp\EcommerceMVCApp\Ecommerce.DatabaseContext\obj\Debug\net6.0\Ecommerce.DatabaseContext.AssemblyInfo.cs
+E:\New Work Folder 28_03_2023\MVC Project\ECommerceApp\EcommerceMVCApp\Ecommerce.DatabaseContext\obj\Debug\net6.0\Ecommerce.DatabaseContext.csproj.CoreCompileInputs.cache
+E:\New Work Folder 28_03_2023\MVC Project\ECommerceApp\EcommerceMVCApp\Ecommerce.DatabaseContext\obj\Debug\net6.0\Ecommerce.DatabaseContext.dll
+E:\New Work Folder 28_03_2023\MVC Project\ECommerceApp\EcommerceMVCApp\Ecommerce.DatabaseContext\obj\Debug\net6.0\refint\Ecommerce.DatabaseContext.dll
+E:\New Work Folder 28_03_2023\MVC Project\ECommerceApp\EcommerceMVCApp\Ecommerce.DatabaseContext\obj\Debug\net6.0\Ecommerce.DatabaseContext.pdb
+E:\New Work Folder 28_03_2023\MVC Project\ECommerceApp\EcommerceMVCApp\Ecommerce.DatabaseContext\obj\Debug\net6.0\ref\Ecommerce.DatabaseContext.dll
+E:\New Work Folder 28_03_2023\MVC Project\ECommerceApp\EcommerceMVCApp\Ecommerce.DatabaseContext\bin\Debug\net6.0\Ecommerce.DatabaseContext.runtimeconfig.json
+E:\New Work Folder 28_03_2023\MVC Project\ECommerceApp\EcommerceMVCApp\Ecommerce.DatabaseContext\bin\Debug\net6.0\EcommerceAppModels.dll
+E:\New Work Folder 28_03_2023\MVC Project\ECommerceApp\EcommerceMVCApp\Ecommerce.DatabaseContext\bin\Debug\net6.0\EcommerceAppModels.pdb
+E:\New Work Folder 28_03_2023\MVC Project\ECommerceApp\EcommerceMVCApp\Ecommerce.DatabaseContext\obj\Debug\net6.0\Ecommerce.DatabaseContext.csproj.CopyComplete
+E:\New Work Folder 28_03_2023\MVC Project\ECommerceApp\EcommerceMVCApp\Ecommerce.DatabaseContext\obj\Debug\net6.0\Ecommerce.DatabaseContext.genruntimeconfig.cache

@@ -1,0 +1,58 @@
+﻿@using EcommerceAppModels
+@model Product 
+
+<form method="post">
+    <div class="form-group">
+        <label for="name">Name</label>
+        <input class="form-control" asp-for="Name"/>
+    </div>
+    <div class="form-group">
+        <label asp-for="CountryId">Country</label>
+        <select class="form-control" asp-for="CountryId" asp-items="ViewBag.countryList">
+            <option value="">Select..</option>
+        </select>
+    </div>
+   
+    <button class="btn-success" type="submit">Save</button>
+</form>
+<button id="testButton">Test For Jquery</button>
+
+<div class="card" id="showBox">
+
+</div>
+
+
+@section Scripts{
+    <script>
+        $("#testButton").click(() => {
+            console.log("Hi Rakib")
+        })
+    </script>
+
+    <script>
+      $(document).ready(()=>{
+            $("#CountryId").change(()=>{
+            var countryId = $("#CountryId").val();
+            //var countryText = $("#CountryId option:selected").text();
+            //console.log(countryText);
+
+            //$("#showBox").text(countryText);
+
+            var jsonData = {countryId:countryId};
+            $.ajax({
+                url:"/product/getByCountryId",
+                type:"POST",
+                data:jsonData,
+                success: function (countries) {
+                        console.log(countries)
+                },
+                error:function(errorResponse){
+                    console.log(errorResponse);
+                }
+
+            })
+
+        })
+      })
+    </script>
+}
